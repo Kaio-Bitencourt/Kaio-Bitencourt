@@ -1,5 +1,5 @@
  <div align="center">
-  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4k1P7zUL2KH-oihyP4zykjr5A7YplmcgNg&s" alt="Software Developer">
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn53dEgbxxFp-uGTBzZYIpNlJW5B1ae7hVNw&s" alt="Software Developer">
 </div>
 
 # Olá, eu sou Kaio Bitencourt - Software Developer 
