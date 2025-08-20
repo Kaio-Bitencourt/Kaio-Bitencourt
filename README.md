@@ -1,12 +1,12 @@
  <div align="center">
-  <img src="https://files.tecnoblog.net/wp-content/uploads/2021/04/Qual-a-ordem-cronologica-dos-filmes-do-Batman-Deny-Freeman-Flickr.jpg" alt="Software Developer">
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4k1P7zUL2KH-oihyP4zykjr5A7YplmcgNg&s" alt="Software Developer">
 </div>
 
-# 🚀 Olá, eu sou Kaio Bitencourt - Software Developer 
+# Olá, eu sou Kaio Bitencourt - Software Developer 
 
 ## Sobre mim
 
-✨ Sou um estudante de java bla bla bla
+- Sou um estudante de java que deseja virar um desenvolvedor requisitado
 
 ## Habilidades Tecnológicas
 
